@@ -13,8 +13,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam imperdiet tempor
 
 * Aliquet venenatis nulla. Nam massa diam, rutrum rutrum cursus eu.
 
- ![]({{ site.baseurl }}/)
-
 Donec quis eros accumsan, aliquet justo ut, convallis eros. Etiam justo enim, blandit eget rhoncus id, tincidunt id ipsum. Pellentesque vehicula feugiat turpis, ac sodales velit ultrices eget. Nam posuere quam nec odio tincidunt, et egestas nulla scelerisque.
 
 ##### Get started
