@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam imperdiet tempor
 
 * Elementum consequat ipsum. Mauris quam purus, feugiat vitae tortor in; and
 
-* Aliquet venenatis nulla. Nam massa diam, rutrum rutrum cursus eu.
+* Aliquet venenatis nulla. Nam massa diam, rutrum rutrum cursus eu. ![]({{ site.baseurl }}/uploads/test.png)
 
 Donec quis eros accumsan, aliquet justo ut, convallis eros. Etiam justo enim, blandit eget rhoncus id, tincidunt id ipsum. Pellentesque vehicula feugiat turpis, ac sodales velit ultrices eget. Nam posuere quam nec odio tincidunt, et egestas nulla scelerisque.
 
