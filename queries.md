@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Query Language
+title: Queries
 nav: queries
 ---
 
