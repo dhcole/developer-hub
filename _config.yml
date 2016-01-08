@@ -14,6 +14,6 @@ sass:
 defaults:
     - {scope: {path: ""}, values: {organization-name: Agency, organization-url: 'http://agency.gov', organization-email: user@agency.gov, source-code-policy.url: null}}
     - layout:
-    	- default
+      - default
       - test
       - two
