@@ -21,7 +21,7 @@ defaults:
       organization-url: "http://agency.gov"
       organization-email: user@agency.gov
       source-code-policy.url: 
-    layout:
+      layout:
       - default
       - test
       - two
