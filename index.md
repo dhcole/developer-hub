@@ -1,7 +1,7 @@
 ---
+layout: two
 published: true
-layout: default
-
+title: testing a title
 ---
 ### Overview Test
 
